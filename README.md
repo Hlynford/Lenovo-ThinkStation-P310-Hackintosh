@@ -1,4 +1,4 @@
-# ThinkStation-P310-Hackintosh
+# Lenovo-ThinkStation-P310-Hackintosh
 联想ThinkStation P310 黑苹果驱动
 
 | 规格     | 详细信息                                     |
