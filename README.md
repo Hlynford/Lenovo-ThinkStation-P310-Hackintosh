@@ -6,7 +6,7 @@
 | 电脑型号 | 联想ThinkStation P310                           |
 | 处理器   | 英特尔 酷睿 i5-6500                         |
 | 硬盘     | Kingston A400        |
-| 显卡     | Intel HD Graphics 530 |  NVIDIA Quadro K420
+| 显卡     | Intel HD Graphics 530 / NVIDIA Quadro K420
 | 内存     | 16 GB DDR4                                 |
 | 显示器   | 联想配套显示器 x 1                    |
 | 声卡     | Realtek ALC662 板载                              |
